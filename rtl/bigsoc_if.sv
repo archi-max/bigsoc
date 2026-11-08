@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: ISC
+// SPDX-License-Identifier: MIT
 `timescale 1ns/1ps
 // picorv32-style memory bus (valid/ready, byte strobes).
 interface mem_if (input logic clk);

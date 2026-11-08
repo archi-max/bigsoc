@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: ISC
+// SPDX-License-Identifier: MIT
 `timescale 1ns/1ps
 // A cluster of NT tiles: shared RAM + mailbox uplink behind a round-robin arbiter, and the
 // trace path (per-tile filter FIFOs -> round-robin mux -> 3-stage flit pipeline).

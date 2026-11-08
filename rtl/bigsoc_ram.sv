@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: ISC
+// SPDX-License-Identifier: MIT
 `timescale 1ns/1ps
 // Single-port word RAM, one-cycle ready pulse. IDXW address bits index WORDS entries.
 module bigsoc_ram #(

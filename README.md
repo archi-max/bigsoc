@@ -1,6 +1,6 @@
 # bigsoc
 
-A 16-core RISC-V SoC in SystemVerilog, written to produce large, realistic waveform dumps for testing waveform viewers and driver tracing (finding where an x/z value comes from). It is built around picorv32 (ISC, YosysHQ/picorv32 at ef203c2, fetched by `third_party/fetch.sh`, not vendored). Everything else here is ISC.
+A 16-core RISC-V SoC in SystemVerilog, written to produce large, realistic waveform dumps for testing waveform viewers and driver tracing (finding where an x/z value comes from). It is built around picorv32 (ISC, YosysHQ/picorv32 at ef203c2, fetched by `third_party/fetch.sh`, not vendored). Everything else here is MIT.
 
 ## Design
 
@@ -60,4 +60,4 @@ The dumps we use (145 MB, 1.7 GB and 10 GB) were made with a commercial SystemVe
 
 ## License
 
-ISC, Copyright (c) 2026 archi-max (see `LICENSE`). picorv32 is ISC, Copyright (C) 2015 Claire Xenia Wolf; it is fetched by `third_party/fetch.sh` (pinned commit, SHA-256 checked) and listed in `NOTICE`.
+MIT, Copyright (c) 2026 archi-max (see `LICENSE`). picorv32 is ISC, Copyright (C) 2015 Claire Xenia Wolf; it is fetched by `third_party/fetch.sh` (pinned commit, SHA-256 checked) and listed in `NOTICE`.

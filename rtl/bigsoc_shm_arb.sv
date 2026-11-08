@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: ISC
+// SPDX-License-Identifier: MIT
 `timescale 1ns/1ps
 // Round-robin arbiter for N requesters onto the cluster's shared RAM (0x2...) and the
 // uplink to the SoC mailbox (0x3...).

@@ -1,6 +1,6 @@
 bigsoc
 Copyright (c) 2026 archi-max
-Licensed under the ISC License (see LICENSE).
+Licensed under the MIT License (see LICENSE).
 
 Third-party code used by this project (fetched at build time, not included in this repository):
 

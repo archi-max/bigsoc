@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: ISC */
+/* SPDX-License-Identifier: MIT */
 ENTRY(_start)
 SECTIONS {
   . = 0x0;

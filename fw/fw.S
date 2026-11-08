@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: ISC
+# SPDX-License-Identifier: MIT
 # bigsoc firmware (RV32IM, bare metal, one image for every core).
 # 8 epochs of epoch_iters work iterations; each iteration fills a buffer with an LCG, runs it
 # through the CRC accelerator, multiplies two 4x4 matrices, sorts 16 words, divides, and pushes

@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: ISC
+// SPDX-License-Identifier: MIT
 `timescale 1ns/1ps
 // Small FIFO of T. Storage is not reset; a push when full is dropped and counted.
 module bigsoc_fifo #(

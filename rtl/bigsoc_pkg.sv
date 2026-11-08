@@ -1,5 +1,5 @@
 // bigsoc: a 16-core picorv32 SoC used as a large waveform benchmark.
-// SPDX-License-Identifier: ISC
+// SPDX-License-Identifier: MIT
 `timescale 1ns/1ps
 package bigsoc_pkg;
   localparam int NCL = 4;  // clusters

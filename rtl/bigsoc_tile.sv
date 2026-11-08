@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: ISC
+// SPDX-License-Identifier: MIT
 `timescale 1ns/1ps
 // One core tile: picorv32 (RV32IM, RVFI on), 16 KB local RAM, MMIO block with a CRC
 // accelerator and a perf counter, and a port to the cluster's shared bus.

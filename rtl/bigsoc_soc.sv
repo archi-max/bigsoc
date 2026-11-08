@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: ISC
+// SPDX-License-Identifier: MIT
 `timescale 1ns/1ps
 // SoC level: NCL clusters, a shared mailbox, and the trace funnel.
 

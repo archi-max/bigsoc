@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: ISC
+// SPDX-License-Identifier: MIT
 // Testbench: clock/reset, run length from plusargs, trace sink, FSDB dump.
 //   +epoch_iters=N   firmware work loop iterations per epoch (8 epochs)
 //   +max_cycles=N    hard stop

@@ -1,5 +1,5 @@
 #!/bin/sh
-# SPDX-License-Identifier: ISC
+# SPDX-License-Identifier: MIT
 # Fetches picorv32 (ISC, Copyright (C) 2015 Claire Xenia Wolf; YosysHQ/picorv32) at the pinned
 # commit into this folder and checks its SHA-256. See NOTICE.
 set -eu
