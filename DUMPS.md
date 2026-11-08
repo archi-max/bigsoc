@@ -17,7 +17,7 @@ commit that adds this file, with picorv32 at `ef203c2` (fetched by `third_party/
 ## Tools
 
 - Simulator: Synopsys VCS W-2024.09 (Full64).
-- Dumper: the FSDB dumper that ships with Verdi W-2024.09, linked in through VCS's `-kdb -debug_access+all`.
+- Dumper: the FSDB dumper that ships with Verdi W-2024.09, enabled with `-kdb -debug_access+all`.
 - The FSDB files themselves are not in this repository (they are 0.14–10 GB).
 
 ## Build
