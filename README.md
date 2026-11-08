@@ -56,7 +56,7 @@ Testbench plusargs:
 - `+max_cycles=N`: hard stop.
 - `+fsdb=<file>`: dump everything (memories, structs, interfaces) to an FSDB file.
 
-The dumps we use (145 MB, 1.7 GB and 10 GB) were made with a commercial SystemVerilog simulator and `+fsdb`. The design uses interfaces, packed structs and type parameters, so it needs a simulator with good SystemVerilog support.
+The dumps we use (145 MB, 1.7 GB and 10 GB) were made with a commercial SystemVerilog simulator and `+fsdb`; `DUMPS.md` gives the exact commands, cycle counts, sizes and sha256 of each. The design uses interfaces, packed structs and type parameters, so it needs a simulator with good SystemVerilog support.
 
 ## License
 
