@@ -1,0 +1,5 @@
+third_party/picorv32.v
+fw/*.o
+fw/*.elf
+fw/*.bin
+fw/*.dis
