@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: ISC
 # Builds fw.hex ($readmemh words) from fw.S with GNU binutils for RISC-V (no compiler needed).
 #   build.sh [out dir]   RISCV_PREFIX defaults to the first of riscv64-elf-, riscv64-unknown-elf-, riscv32-unknown-elf- found.
 set -eu

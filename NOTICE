@@ -1,0 +1,12 @@
+bigsoc
+Copyright (c) 2026 archi-max
+Licensed under the ISC License (see LICENSE).
+
+Third-party code used by this project (fetched at build time, not included in this repository):
+
+picorv32 - A Size-Optimized RISC-V CPU
+  Upstream: https://github.com/YosysHQ/picorv32
+  Commit:   ef203c2 (file picorv32.v, fetched by third_party/fetch.sh)
+  SHA-256:  checked by third_party/fetch.sh
+  Copyright (C) 2015 Claire Xenia Wolf <claire@yosyshq.com>
+  License:  ISC (the full notice is at the top of picorv32.v)

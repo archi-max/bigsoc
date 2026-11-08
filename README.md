@@ -60,4 +60,4 @@ The dumps we use (145 MB, 1.7 GB and 10 GB) were made with a commercial SystemVe
 
 ## License
 
-ISC, Copyright (c) 2026 archi-max (see `LICENSE`); picorv32 is ISC, Copyright (C) 2015 Claire Xenia Wolf.
+ISC, Copyright (c) 2026 archi-max (see `LICENSE`). picorv32 is ISC, Copyright (C) 2015 Claire Xenia Wolf; it is fetched by `third_party/fetch.sh` (pinned commit, SHA-256 checked) and listed in `NOTICE`.
